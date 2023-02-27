@@ -4,7 +4,4 @@ driver.findelement(By.id
 driver.findelement(By.name
 driver.findelement(By.class
 driver.findelement(By.tagname
-driver.findelement(By.linktext
-driver.findelement(By.partiallinktext
-driver.findelement(By.cssSelector
 
